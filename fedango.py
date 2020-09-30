@@ -65,7 +65,7 @@ CrawlWords(r'https://www.fandango.com/infidel-2020-223278/movie-overview')
 
 
 EMAIL_ADDRESS = 'rebeccasanga3018@gmail.com'
-EMAIL_PASSWORD = 'Password@123'
+EMAIL_PASSWORD = '....'
 
 msg = EmailMessage()
 msg['Subject'] = 'Fedango Movie Information'
